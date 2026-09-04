@@ -10,7 +10,7 @@ upstream vehicle registry and returns them with a human-readable summary.
 - [Running Locally](#running-locally)
   - [Requirements](#requirements)
   - [From source](#from-source)
-  - [With Docker](#with-docker)
+  - [Docker](#docker)
 - [API Reference](#api-reference)
   - [`POST /vehicle-info`](#post-vehicle-info)
   - [`GET /health`](#get-health)
@@ -51,6 +51,7 @@ curl -X POST https://vehicle-info-hc14.onrender.com/vehicle-info \
 - Python 3.12+
 - Docker (optional)
 
+### From source
 
 ```bash
 git clone https://github.com/andrey123h/vehicle-info
