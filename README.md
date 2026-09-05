@@ -1,7 +1,7 @@
 # Vehicle Info
 
-A small FastAPI service that looks up vehicle details by license plate from an
-upstream vehicle registry and returns them with a human-readable summary.
+A FastAPI service that looks up vehicle details by license plate from an
+upstream vehicle registry.
 
 ## Table of Contents
 
